@@ -29,8 +29,6 @@ import javax.swing.JTextField;
 import javax.swing.JLabel;
 
 public class MainWindow extends JFrame{
-	// this is a test comment
-	private boolean thisTest = true;
 	String[] headersOnCalls = {"","Teacher", "Periode", "Class", "On-Calls this week", "On-Calls this month"};
 	String[] headersNextOnCallers = {"","Teacher", "On-Calls this week", "On-Calls this month", "On-Calls left this Week", "On-Calls left this Month"};
 	
